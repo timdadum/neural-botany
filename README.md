@@ -1,11 +1,12 @@
-<div align="center">
-  <figure>
-    <img src="example.gif" alt="Training progress: five fixed seeds evolving over epochs" width="50%" />
-    <figcaption>
-      <small><i>Each run writes <code>runs/…/progress.gif</code> with the same layout: five fixed seeds over 100 epochs. Shared defaults: 48×48 grayscale, <code>batch_size=128</code>, <code>base_ch=48</code>. Per model: <strong>GAN</strong> (DCGAN) — <code>z_dim=100</code>, <code>lr=2e-4</code>; <strong>VAE</strong> — <code>latent_dim=100</code> via <code>--z-dim</code>, <code>lr=1e-3</code>; <strong>Diffusion</strong> (DDPM) — <code>T=1000</code> timesteps, <code>lr=1e-4</code>.</i></small>
-    </figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="example.gif" alt="Training progress: five fixed seeds evolving over epochs" width="50%" />
+</p>
+
+<p align="center">
+  <sub>Five fixed seeds over 100 epochs &nbsp;·&nbsp; 48×48 grayscale &nbsp;·&nbsp; <code>batch_size=128</code> &nbsp;·&nbsp; <code>base_ch=48</code></sub>
+  <br />
+  <sub><b>GAN</b> <code>z_dim=100</code> <code>lr=2e-4</code> &nbsp;·&nbsp; <b>VAE</b> <code>latent_dim=100</code> <code>lr=1e-3</code> &nbsp;·&nbsp; <b>Diffusion</b> <code>T=1000</code> <code>lr=1e-4</code></sub>
+</p>
 
 ---
 
