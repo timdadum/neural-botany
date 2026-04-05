@@ -1,4 +1,4 @@
-![Example GIF][example.gif]
+![Example GIF](example.gif)
 
 # neural-botany
 
