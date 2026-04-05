@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="example.gif" alt="Training progress: five fixed seeds evolving over epochs" width="50%" />
+  <img src="example.gif" alt="Training progress: five fixed seeds evolving over epochs" width="80%" />
 </p>
 
 <p align="center">
