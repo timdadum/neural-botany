@@ -10,7 +10,7 @@
 
 ---
 
-# neural-botany
+# Neural Botany
 
 Train small generative models (GAN, VAE, Diffusion) from scratch on the [Oxford 102 Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/) dataset, targeting small square images (default **48×48**; configurable via `--image-size`, grayscale or colour) on **Apple Silicon (MPS)**.
 
