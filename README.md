@@ -1,4 +1,13 @@
-![Example GIF](example.gif)
+<div align="center">
+  <figure>
+    <img src="example.gif" alt="Training progress: five fixed seeds evolving over epochs" width="50%" />
+    <figcaption>
+      <small><i>Each run writes <code>runs/…/progress.gif</code> with the same layout: five fixed seeds over 100 epochs. Shared defaults: 48×48 grayscale, <code>batch_size=128</code>, <code>base_ch=48</code>. Per model: <strong>GAN</strong> (DCGAN) — <code>z_dim=100</code>, <code>lr=2e-4</code>; <strong>VAE</strong> — <code>latent_dim=100</code> via <code>--z-dim</code>, <code>lr=1e-3</code>; <strong>Diffusion</strong> (DDPM) — <code>T=1000</code> timesteps, <code>lr=1e-4</code>.</i></small>
+    </figcaption>
+  </figure>
+</div>
+
+---
 
 # neural-botany
 
