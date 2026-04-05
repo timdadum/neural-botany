@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Data & experiment outputs (large / reproducible)
+data/
+runs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
